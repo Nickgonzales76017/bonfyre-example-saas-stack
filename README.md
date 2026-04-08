@@ -186,6 +186,7 @@ bonfyre-example-saas-stack/
 | Add semantic search to your SaaS | [bonfyre-example-semantic-search](https://github.com/Nickgonzales76017/bonfyre-example-semantic-search) |
 | Add transcription to your SaaS | [bonfyre-example-transcribe](https://github.com/Nickgonzales76017/bonfyre-example-transcribe) |
 | Compress your API responses | [bonfyre-example-compress](https://github.com/Nickgonzales76017/bonfyre-example-compress) |
+| OpenAI-compatible API (drop-in) | `bonfyre-proxy serve --port 8787` — [main repo](https://github.com/Nickgonzales76017/bonfyre) |
 
 ## License
 
