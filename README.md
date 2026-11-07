@@ -6,6 +6,19 @@ An earlier example combining a small API surface, local identity operations, usa
 
 **Try the current product direction:** [Request-to-books walkthrough](https://docs.aurekai.work/request-to-books).
 
+## Aurekai / Bonfÿre: role and maturity
+
+**Why this exists:** AI accelerates implementation, but dependable reuse requires source context, tested components and evidence. [Aurekai](https://aurekai.work) invests engineering, AI and reusable software into digital products; [Bonfÿre](https://github.com/Nickgonzales76017/bonfyre) provides the shared technical engine.
+
+| | This repository |
+|---|---|
+| **Business outcome** | Compose the operating components beneath customer applications |
+| **Technical scope** | Original local API, identity, meter, invoice and CMS scripts |
+| **Maturity boundary** | April 2026 example; not real settlement or supported production SaaS |
+| **Verification** | Use the actual source, fixtures and test instructions below; a local example is not a deployed customer system. |
+
+[Business, project and technical model](https://github.com/Nickgonzales76017/bonfyre/blob/main/docs/aurekai-bonfyre-model.md)
+
 ## What's in this repository
 
 | File | Use |
